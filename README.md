@@ -1,7 +1,6 @@
-### Hi there o/
-I code stupid crap ig
-
-You can contact me on discord (Epic#6666) and a lot of random alts when I forget my 2fa codes
+### \o/
+I code stupid things which interest me. Don't be afraid to send me cool, interesting or even silly ideas for things to make!  
+I usually write things in Python or Svelte, however I've been working on learning rust aswell.
 
 # Github stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=tag-epic&count_private=true&theme=radical)  
